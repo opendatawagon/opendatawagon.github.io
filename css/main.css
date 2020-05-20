@@ -20,9 +20,22 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: x-large;
+    font-family: 'Bubblegum Sans', cursive;
 }
+h2 {
+    font-size: large;
+    font-family: 'Bubblegum Sans', cursive;
+}
+h3 {
+    font-size: medium;
+    font-family: 'Bubblegum Sans', cursive;
+}
+h4 {
+    font-size: small;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
