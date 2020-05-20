@@ -1,3 +1,5 @@
+
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -21,19 +23,19 @@ a:hover {
 }
 h1 {
     font-size: x-large;
-    font-family: 'Bubblegum Sans', cursive;
+    font-family: 'Bubblegum Sans';
 }
 h2 {
     font-size: large;
-    font-family: 'Bubblegum Sans', cursive;
+    font-family: 'Bubblegum Sans';
 }
 h3 {
     font-size: medium;
-    font-family: 'Bubblegum Sans', cursive;
+    font-family: 'Bubblegum Sans';
 }
 h4 {
     font-size: small;
-    font-family: 'Bubblegum Sans', cursive;
+    font-family: 'Bubblegum Sans';
 }
 
 p {
