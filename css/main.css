@@ -22,22 +22,9 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: x-large;
-    font-family: 'Londrina Solid';
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-h2 {
-    font-size: large;
-    font-family: 'Londrina Solid';
-}
-h3 {
-    font-size: medium;
-    font-family: 'Londrina Solid';
-}
-h4 {
-    font-size: small;
-    font-family: 'Londrina Solid';
-}
-
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -56,3 +43,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
